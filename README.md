@@ -1,4 +1,4 @@
-### Hello! My name is Caroline Pukenis
+### Hello! My name is Caroline Pukenis.
 
 I am currently a student in a fullstack development bootcamp through the University of Minnesota, my alma mater. I have an bachelor's degree in Entrepreneurial Design, a degree I created to combine my passions of graphic design and business. I have gone back to school to learn more, and to help me become a stronger web developer. 
 
