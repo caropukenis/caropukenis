@@ -15,6 +15,8 @@ Here are some career highlights for me:
 - Having two of my managers tell me that hiring me was one of the best choices they'd made. 
 - Getting to make a pizza with the image of a Dalek on it (mostly pepperonis and olives).
   - It made their 8 year olds son's birthday even better.
+  
+I can be reached at carolinepukenis@gmail.com or @caro_pukenis on most social media. 
 
 <!--
 **caropukenis/caropukenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
